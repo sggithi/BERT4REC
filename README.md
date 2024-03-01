@@ -4,7 +4,7 @@
 
 ## Todo
 
-- [ ] SASRec 구현
+- [X] SASRec 구현
 - [ ] BERT4Rec 구현
 - [ ] Distillation is All You Need
 - [ ] Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction
